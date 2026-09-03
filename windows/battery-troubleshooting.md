@@ -1,9 +1,5 @@
 # Windows Battery Troubleshooting
 
-## 1.Battery Not Charging:
-- Check that the battery is properly inserted into the port; clean the port for any debris 
-- Check that the power socket is properly connected. Try socket with a different device to see if it works well
-
 ## Check Battery Health:
 - Generate power report by typing into the command propmt this command "powercfg /batteryreport". Then press enter 
 - Battery report will be generated as an html file
@@ -25,7 +21,4 @@
 ## Contacting IT Support:
 - In a situation when battery is physically damaged or swelled, please do not troubleshoot yourself. Immediately report to IT 
 - Immediately report sudden shut downs to the IT support team for assisnatance
-- If you follow all the steps above and battery performance on your device is still bad, report to IT Support forassistance
-
-
-
+- If you follow all the steps above and battery performance on your device is still bad, report to IT Support for assistance
